@@ -1,0 +1,27 @@
+<style>body {
+    text-align: center;
+    background-color: rgba(237, 229, 219, 0.451);
+}
+
+footer,
+header {
+    color: rgb(9, 193, 255);
+    padding: 25px;
+    background-color: antiquewhite;
+    border-width: 10px;
+    border-color: rgb(250, 15, 15);
+    border-style: ridge;
+}
+
+nav {
+    background-color: rgb(249, 150, 150);
+    padding: 10px;
+}
+
+section {
+    background-color: rgb(117, 92, 141);
+    padding: 15px;
+    text-align: left;
+}
+
+</style>
